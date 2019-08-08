@@ -3,6 +3,11 @@ Critter Sitter
 
 Critter Sitter is a full stack application built with React on the front-end talking to an ExpressJS back-end([critter-sitter-server](https://github.com/nikijiandani/critter-sitter-server)) with a REST interface in between. It lets users find or offer pet sitting services in their area.
 
+### Team Members
+- Melanie Maddix
+- Nikita Jiandani
+- Poushita Guha
+
 ### Final Product
 #### Landing Page
 !["landing_page"](/public/screenshots/landing_page_screenshot.png)
