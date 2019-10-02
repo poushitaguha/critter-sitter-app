@@ -28,3 +28,8 @@
 .review-author {
   padding-bottom: 0.6em;
 }
+
+.review-author a {
+  padding: 0;
+  color: black;
+}
